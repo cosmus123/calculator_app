@@ -1,0 +1,22 @@
+body{
+    background: url('math.jpg');
+}
+
+form {
+    width:300px;
+    margin:auto;
+    padding-top:100px;
+}
+
+.form {
+    background-color: rgb(189, 162, 162,0.7);
+    padding-top:20px;
+    padding-bottom:40px;
+    width: 400px;
+    margin:auto;
+    margin-top:40px;
+}
+
+h3 {
+    text-align: center;
+}
